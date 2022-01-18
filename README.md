@@ -1,5 +1,16 @@
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
+## About this template
+
+This template comes preloaded with the following dependencies:
+
+- React
+- Next.js
+- cz-conventional-changelog
+- Tailwind CSS
+
+*you need to use `pnpm` to install dependencies*
+
 ## Getting Started
 
 First, run the development server:
